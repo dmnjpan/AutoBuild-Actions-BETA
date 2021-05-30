@@ -4,7 +4,7 @@ CONFIG_TARGET_ramips_mt7621_DEVICE_d-team_newifi-d2=y
 
 CONFIG_BUILD_PATENTED=y
 
-# IPv6 相关
+# IPv6 相关(禁用IPV6)
 CONFIG_IPV6 is not set
 CONFIG_KERNEL_IPV6 is not set
 CONFIG_PACKAGE_ipv6helper is not set
