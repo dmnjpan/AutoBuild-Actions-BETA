@@ -4,7 +4,7 @@
 #   Author: dmnjpan                                      #
 ###########################################################
 
-name: newifi-d2
+name: AutoBuild-d-team_newifi-d2
 
 ### 以下内容请保持不变
 on:
