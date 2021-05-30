@@ -4,7 +4,7 @@
 #   Author: dmnjpan                                      #
 ###########################################################
 
-name: AutoBuild-d-team_newifi-d2
+name: newifi-d2
 
 ### 以下内容请保持不变
 on:
@@ -14,10 +14,10 @@ on:
       ssh:
         description: 'SSH 连接到 Actions'
         required: true
-        default: 'false'
+        default: 'true'
       ip_addr:
         description: '固件 IP 地址 [可选]'
-        default: ''
+        default: '192.168.100.253'
 ### END
 
   #push:
