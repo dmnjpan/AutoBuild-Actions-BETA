@@ -1,7 +1,7 @@
 ###########################################################
 #   Description: Compile OpenWrt by GitHub Actions        #
 #   Based on: https://github.com/P3TERX/Actions-OpenWrt   #
-#   Author: Hyy2001X                                      #
+#   Author: dmnjpan                                      #
 ###########################################################
 
 name: AutoBuild-d-team_newifi-d2
