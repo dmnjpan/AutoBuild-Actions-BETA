@@ -12,7 +12,7 @@ Diy_Core() {
 	INCLUDE_AutoUpdate=false
 	INCLUDE_AutoBuild_Tools=true
 	INCLUDE_DRM_I915=true
-	INCLUDE_Theme_Argon=true
+	INCLUDE_Theme_Argon=false
 	INCLUDE_Obsolete_PKG_Compatible=false
 
 	Upload_VM_Firmware=false
