@@ -28,7 +28,7 @@ CONFIG_PACKAGE_kmod-usb3=y
 
 #Install application
 CONFIG_PACKAGE_luci-app-adbyby-plus=y
-CONFIG_PACKAGE_luci-app-accesscontrol=y
+CONFIG_PACKAGE_luci-access-control=y
 CONFIG_PACKAGE_luci-app-adguardhome=y
 CONFIG_PACKAGE_luci-app-frps=y
 CONFIG_PACKAGE_luci-app-arpbind=y
