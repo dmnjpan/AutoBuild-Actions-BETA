@@ -5,3 +5,4 @@
 svn other luci-app-smartdns kenzok8/openwrt-packages/trunk
 svn feeds/packages/net smartdns kenzok8/openwrt-packages/trunk
 git other luci-app-onliner rufengsuixing
+git other luci-app-frps lwz322
