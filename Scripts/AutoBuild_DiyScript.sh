@@ -1,13 +1,13 @@
 #!/bin/bash
-# https://github.com/Hyy2001X/AutoBuild-Actions
-# AutoBuild Module by Hyy2001
+# https://github.com/dmnjpan/AutoBuild-Actions
+# AutoBuild Module by dmnjpan
 # AutoBuild DiyScript
 
 Diy_Core() {
 	Author=dmnjpan
 	Default_Device=x86_64
 	Short_Firmware_Date=true
-	Default_IP_Address=192.168.100.253
+	Default_IP_Address=192.168.100.222
 
 	INCLUDE_AutoUpdate=false
 	INCLUDE_AutoBuild_Tools=true
