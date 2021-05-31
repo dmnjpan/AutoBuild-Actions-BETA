@@ -14,7 +14,7 @@ on:
       ssh:
         description: 'SSH 连接到 Actions'
         required: true
-        default: 'true'
+        default: 'false'
       ip_addr:
         description: '固件 IP 地址 [可选]'
         default: '192.168.100.253'
