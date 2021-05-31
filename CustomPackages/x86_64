@@ -4,3 +4,5 @@ svn network/utils iperf3 openwrt/packages/trunk/net
 svn network/utils curl openwrt/packages/trunk/net
 svn lean wget openwrt/packages/trunk/net
 git other OpenClash vernesong
+git other luci-app-frps lwz322
+
