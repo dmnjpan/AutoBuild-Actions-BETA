@@ -7,7 +7,7 @@ Diy_Core() {
 	Author=dmnjpan
 	Default_Device=x86_64
 	Short_Firmware_Date=true
-	Default_IP_Address=192.168.100.222
+	Default_IP_Address=192.168.110.254
 
 	INCLUDE_AutoUpdate=false
 	INCLUDE_AutoBuild_Tools=true
